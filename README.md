@@ -1,7 +1,9 @@
 # Quiz-app 
-
 Javascript study project :memo:
 <br>Practicing coding skills 
+
+![Start](https://user-images.githubusercontent.com/71825967/147842995-1a169f0b-26a7-418e-888a-39438879f32a.png)
+
 
 ## Details
 
